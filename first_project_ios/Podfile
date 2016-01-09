@@ -1,0 +1,9 @@
+platform :ios, '7.0'
+pod 'SVProgressHUD', :head
+pod 'AFNetworking', '~> 2.5.1'
+pod 'Masonry'
+pod 'JSONModel'
+pod 'SDWebImage', '~> 3.7.1'
+pod 'MJRefresh'
+pod 'TAPageControl'
+pod 'RDVTabBarController'

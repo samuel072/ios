@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4277D55A-8C53-4B56-9D61-E557F88D91C3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MomentTalks</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6591d549-17ea-4bf0-84ab-32981b35f603</key>
+		<string>svn://www.yueduke.com/yike_ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MomentTalks.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6591d549-17ea-4bf0-84ab-32981b35f603</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6591d549-17ea-4bf0-84ab-32981b35f603</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6591d549-17ea-4bf0-84ab-32981b35f603</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MomentTalks</string>
+		</dict>
+	</array>
+</dict>
+</plist>

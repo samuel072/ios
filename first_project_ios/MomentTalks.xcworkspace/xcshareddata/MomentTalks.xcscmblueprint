@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6591d549-17ea-4bf0-84ab-32981b35f603",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "6591d549-17ea-4bf0-84ab-32981b35f603" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6591d549-17ea-4bf0-84ab-32981b35f603" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4277D55A-8C53-4B56-9D61-E557F88D91C3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6591d549-17ea-4bf0-84ab-32981b35f603" : "MomentTalks"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MomentTalks",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MomentTalks.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/www.yueduke.com\/yike_ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6591d549-17ea-4bf0-84ab-32981b35f603"
+    }
+  ]
+}
